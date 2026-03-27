@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&width=500&lines=Systems+Development+Student+%F0%9F%9A%80;Web+%26+Backend+Developer;Always+Learning%2C+Always+Building+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
-🇧🇷 Brazil
-
 I enjoy building **real-world projects**, improving my skills in **JavaScript, Node.js, Python, and databases**, and learning more about **software architecture and networks**.
 
 ---
@@ -29,8 +27,6 @@ I enjoy building **real-world projects**, improving my skills in **JavaScript, N
 - 🗄️ Database modeling (MySQL)
 - 🔐 Basic API security concepts
 - ⚙️ System development (CRUD, authentication)
-- 🐍 Python scripting and automation
-- 🌐 Networking fundamentals (Cisco)
 
 ---
 
@@ -59,11 +55,6 @@ I enjoy building **real-world projects**, improving my skills in **JavaScript, N
 ---
 
 ## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielBortoni&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielBortoni&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoGabrielBortoni&theme=tokyonight&hide_border=true" />
