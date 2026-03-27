@@ -12,7 +12,7 @@ I enjoy building **real-world projects**, improving my skills in **JavaScript, N
 <p align="left">
   <a href="https://github.com/JoaoGabrielBortoni">
     <img src="https://img.shields.io/badge/GitHub-JoaoGabrielBortoni-181717?style=for-the-badge&logo=github" />
-  </a>
+  </a> <br>
   <a href="https://www.linkedin.com/in/joaogabrielbortoni">
     <img src="https://img.shields.io/badge/LinkedIn-Joao_Gabriel_Bortoni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -55,8 +55,8 @@ I enjoy building **real-world projects**, improving my skills in **JavaScript, N
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoGabrielBortoni&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabrielBortoni&layout=compact&theme=tokyonight" />
 </p>
 
 ---
